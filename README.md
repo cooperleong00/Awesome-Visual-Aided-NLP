@@ -16,7 +16,9 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 
 ### Representation Learning
 
+* [Imagined Visual Representations as Multimodal Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/11155) - Collell et al, **AAAI 2017**.
 * [Probing Multimodal Embeddings for Linguistic Properties: the Visual-Semantic Case](https://aclanthology.org/2020.coling-main.64) - Lindström et al, **COLING 2020**.
+* [Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training](https://aclanthology.org/2021.conll-1.12) - Shahmohammadi et al, **CoNLL 2021**.
 * [Which Apple Keeps Which Doctor Away? Colorful Word Representations With Visual Oracles](https://ieeexplore.ieee.org/document/9627795) - Zhang et al, **TASLP 2021**. [[code]](https://github.com/cooelf/AppleLM)
 * [Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations](https://aclanthology.org/2022.acl-long.217) - Zhang et al, **ACL 2022**.
 * [MCSE: Multimodal Contrastive Learning of Sentence Embeddings](https://aclanthology.org/2022.naacl-main.436) - Zhang et al, **NAACL 2022**. [[code]](https://github.com/uds-lsv/MCSE)
@@ -31,6 +33,7 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 
 ### Visual Knowledge in Language
 
+* [Probing Contextual Language Models for Common Ground with Visual Representations](https://aclanthology.org/2021.naacl-main.422) - Gabriel et al, **NAACL 2021**.
 * [Leveraging Visual Knowledge in Language Tasks: An Empirical Study on Intermediate Pre-training for Cross-Modal Knowledge Transfer](https://aclanthology.org/2022.acl-long.196) - Jin et al, **ACL 2022**.
 * [Things not Written in Text: Exploring Spatial Commonsense from Visual Signals](https://aclanthology.org/2022.acl-long.168) - Liu et al, **ACL 2022**.
 * [Visual Commonsense in Pretrained Unimodal and Multimodal Models](https://aclanthology.org/2022.naacl-main.390) - Zhang et al, **NAACL 2022**.
@@ -53,4 +56,7 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 
 ### Other
 
+* [Image-Mediated Learning for Zero-Shot Cross-Lingual Document Retrieval](https://aclanthology.org/D15-1070/) - Funaki et al, **EMNLP 2015**.
+* [Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval With Generative Models](https://openaccess.thecvf.com/content_cvpr_2018/html/Gu_Look_Imagine_and_CVPR_2018_paper.html) - Gu et al, **CVPR 2018**.
+* [Does Vision-and-Language Pretraining Improve Lexical Grounding?](https://aclanthology.org/2021.findings-emnlp.370/) - Yun et al, **EMNLP 2021 (Findings)**.
 * [Improving Personalized Explanation Generation through Visualization](https://aclanthology.org/2022.acl-long.20) - Geng et al, **ACL 2022**.
