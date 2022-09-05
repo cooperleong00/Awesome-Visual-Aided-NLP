@@ -43,6 +43,12 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 ### Multimodal Named Entity Recognition
 
 * [Multimodal Named Entity Recognition for Short Social Media Posts](https://aclanthology.org/N18-1078) - Moon et al, **NAACL 2018**.
+* [Visual Attention Model for Name Tagging in Multimodal Social Media](https://aclanthology.org/P18-1185/) - Lu et al, **ACL 2018**.
+* [Adaptive Co-attention Network for Named Entity Recognition in Tweets](https://ojs.aaai.org/index.php/AAAI/article/view/11962) - Zhang et al, **AAAI 2018**.
+* [Multimodal Representation with Embedded Visual Guiding Objects for Named Entity Recognition in Social Media Posts](https://dl.acm.org/doi/abs/10.1145/3394171.3413650) - Wu et al, **ACMMM 2020**.
+* [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://aclanthology.org/2020.acl-main.306/) - Yu et al, **ACL 2020**.
+* [Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://ojs.aaai.org/index.php/AAAI/article/view/17687) - Zhang et al, **AAAI 2021**.
+* [RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER](https://ojs.aaai.org/index.php/AAAI/article/view/17633) - Sun et al, **AAAI 2021**.
 
 ### Other
 
