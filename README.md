@@ -49,6 +49,7 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 * [Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer](https://aclanthology.org/2020.acl-main.306/) - Yu et al, **ACL 2020**.
 * [Multi-modal Graph Fusion for Named Entity Recognition with Targeted Visual Guidance](https://ojs.aaai.org/index.php/AAAI/article/view/17687) - Zhang et al, **AAAI 2021**.
 * [RpBERT: A Text-image Relation Propagation-based BERT Model for Multimodal NER](https://ojs.aaai.org/index.php/AAAI/article/view/17633) - Sun et al, **AAAI 2021**.
+* [ITA: Image-Text Alignments for Multi-Modal Named Entity Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/17633) - Wang et al, **NAACL 2022**.
 
 ### Other
 
