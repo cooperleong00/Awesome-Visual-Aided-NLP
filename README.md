@@ -17,7 +17,9 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 ### Representation Learning
 
 * [Imagined Visual Representations as Multimodal Embeddings](https://ojs.aaai.org/index.php/AAAI/article/view/11155) - Collell et al, **AAAI 2017**.
+* [Incorporating Visual Semantics into Sentence Representations within a Grounded Space](https://aclanthology.org/D19-1064) - Bordes et al, **EMNLP 2019**.
 * [Probing Multimodal Embeddings for Linguistic Properties: the Visual-Semantic Case](https://aclanthology.org/2020.coling-main.64) - Lindström et al, **COLING 2020**.
+* [Accurate Word Representations with Universal Visual Guidance](http://arxiv.org/abs/2012.15086) - Zhang et al, **arxiv preprint 2020**.
 * [Learning Zero-Shot Multifaceted Visually Grounded Word Embeddings via Multi-Task Training](https://aclanthology.org/2021.conll-1.12) - Shahmohammadi et al, **CoNLL 2021**.
 * [Which Apple Keeps Which Doctor Away? Colorful Word Representations With Visual Oracles](https://ieeexplore.ieee.org/document/9627795) - Zhang et al, **TASLP 2021**. [[code]](https://github.com/cooelf/AppleLM)
 * [Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations](https://aclanthology.org/2022.acl-long.217) - Zhang et al, **ACL 2022**.
@@ -58,5 +60,6 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 
 * [Image-Mediated Learning for Zero-Shot Cross-Lingual Document Retrieval](https://aclanthology.org/D15-1070/) - Funaki et al, **EMNLP 2015**.
 * [Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval With Generative Models](https://openaccess.thecvf.com/content_cvpr_2018/html/Gu_Look_Imagine_and_CVPR_2018_paper.html) - Gu et al, **CVPR 2018**.
+* [Visual Grounding in Video for Unsupervised Word Translation](https://openaccess.thecvf.com/content_CVPR_2020/html/Sigurdsson_Visual_Grounding_in_Video_for_Unsupervised_Word_Translation_CVPR_2020_paper.html) - Sigurdsson et al, **CVPR 2020**.
 * [Does Vision-and-Language Pretraining Improve Lexical Grounding?](https://aclanthology.org/2021.findings-emnlp.370/) - Yun et al, **EMNLP 2021 (Findings)**.
 * [Improving Personalized Explanation Generation through Visualization](https://aclanthology.org/2022.acl-long.20) - Geng et al, **ACL 2022**.
