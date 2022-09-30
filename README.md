@@ -24,6 +24,7 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 * [Which Apple Keeps Which Doctor Away? Colorful Word Representations With Visual Oracles](https://ieeexplore.ieee.org/document/9627795) - Zhang et al, **TASLP 2021**. [[code]](https://github.com/cooelf/AppleLM)
 * [Contrastive Visual Semantic Pretraining Magnifies the Semantics of Natural Language Representations](https://aclanthology.org/2022.acl-long.217) - Zhang et al, **ACL 2022**.
 * [MCSE: Multimodal Contrastive Learning of Sentence Embeddings](https://aclanthology.org/2022.naacl-main.436) - Zhang et al, **NAACL 2022**. [[code]](https://github.com/uds-lsv/MCSE)
+* [Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings](http://arxiv.org/abs/2209.09433) - Jian et al, **NIPS 2022**. [[code]](https://github.com/yiren-jian/NonLing-CSE)
 
 
 ### Generation
