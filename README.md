@@ -11,7 +11,7 @@ A list of Visual Aided NLP, which tries to mine knowledge and information from v
 * [VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer](https://proceedings.neurips.cc/paper/2021/hash/ccdf3864e2fa9089f9eca4fc7a48ea0a-Abstract.html) - Tang et al, **NIPS 2021**. [[code]](https://github.com/zinengtang/VidLanKD)
 * [Imagination-Augmented Natural Language Understanding](https://aclanthology.org/2022.naacl-main.326/) - Lu et al, **NAACL 2022**. [[code]](https://github.com/YujieLu10/IACE-NLU)
 * [Visually-Augmented Language Modeling](https://arxiv.org/abs/2205.10178) - Wang et al, **arxiv preprint 2022**. [[code]](https://github.com/YujieLu10/IACE-NLU)
-
+* [What Does Vision Supervision Bring to Language Models? A Case Study of CLIP](https://openreview.net/forum?id=SdBfRJE9SX-) - Anonymous, **ICLR 2023 Submission**.
 
 
 ### Representation Learning
